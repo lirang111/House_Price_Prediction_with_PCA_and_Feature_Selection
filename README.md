@@ -21,7 +21,6 @@ High-variance features only
 Compare model performance using R² Score and RMSE.
 
 📂 Dataset
-File: train.csv
 
 Size: 1460 samples × 81 columns
 
